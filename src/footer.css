@@ -1,0 +1,10 @@
+.navbar li a {
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 2px;
+  /* color:#ff7230; */
+  color: #333;
+  /* relative used for underline */
+  position: relative;
+}
